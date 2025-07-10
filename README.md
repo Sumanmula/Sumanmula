@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/dG6lZGQ.png" alt="banner" />
+  <img src="https://github.com/Sumanmula/Picture/blob/main/Suman%20Linkedin%20Cover%20image%202.png" alt="banner" />
 </p>
 
 <h1 align="center">👋 Hey there! I'm Suman Mula</h1>
