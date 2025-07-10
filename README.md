@@ -50,25 +50,33 @@
 
 ---
 
-## 💻 Tech Stack
+<table>
+<tr>
+<td>
 
-### 👨‍🔧 Languages & UI
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+### 💻 Tech Stack
 
-### ⚙️ Architecture & Libraries
-![MVVM](https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-Database-green?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-DI-7963e0?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-lightblue?style=for-the-badge)
+#### 👨‍🔧 Languages & UI  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" />
 
-### ☁️ Backend & Auth
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-yellow?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+#### ⚙️ Architecture & Libraries  
+<img src="https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Room-Database-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hilt-DI-7963e0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coroutines-lightblue?style=for-the-badge" />
+
+#### ☁️ Backend & Auth  
+<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase%20Auth-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -148,7 +156,7 @@
 
 ## 📈 Visitor Counter
 
-[![](https://visitcount.itsvg.in/api?id=Sumanmula&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sumanmula&label=Visitors&color=12&icon=1)](https://visitcount.itsvg.in)
 
 ---
 
