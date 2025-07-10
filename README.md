@@ -15,13 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sumanmula&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumanmula/Sumanmula/output/github-contribution-grid-snake-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumanmula/Sumanmula/output/github-contribution-grid-snake.gif" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Sumanmula/Sumanmula/output/github-contribution-grid-snake.gif" />
-  </picture>
-</p>
