@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech in Information Technology (2024) – MCKV Institute of Engineering
+- 🎓 B.Tech in Information Technology (2024) – MCKV Institute of Engineering  
 - 🎓 B.Sc in Mathematics (2021) – Vidyasagar University  
-- 💡 Passionate about building modern Android apps using **Jetpack Compose + MVVM**  
+- 💡 Passionate about building Android apps using **Jetpack Compose + MVVM**  
 - 🧠 Solved **500+ problems** on [LeetCode](https://leetcode.com/u/sumanmula_dsa/)  
-- 🧩 Enjoy turning creative UI/UX ideas into real apps  
-- 🔥 Constantly learning **Firebase**, **Room**, **API** and **Clean Architecture**  
+- 🔥 Constantly learning **Firebase**, **Room**, **API integration** and **Clean Architecture**  
+- ✨ I love transforming creative UI/UX into interactive mobile experiences  
 - 📬 Email: **sumanmula18@gmail.com**
 
 </td>
@@ -55,11 +55,11 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/XML-orange?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
 
 ### ⚙️ Architecture & Libraries
 ![MVVM](https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-DB-green?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-Database-green?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-DI-7963e0?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/Coroutines-lightblue?style=for-the-badge)
@@ -83,19 +83,19 @@
 
 ## 🧠 Fun Developer Fact
 
-> I love debugging weird layout bugs — it's like solving a puzzle nobody else noticed! 🧩  
-> I also enjoy exploring open-source Android projects and contributing whenever possible.
+> I enjoy solving weird layout bugs — it’s like unlocking hidden puzzles no one else saw!  
+> Exploring open-source Android projects is my weekend hobby 🧩
 
 ---
 
 ## 🏆 LeetCode Highlights
 
-✅ Solved over **500+ DSA problems**  
-✅ Strong grasp of Arrays, Hashing, Trees, Graphs, and Recursion  
-✅ Practicing daily to improve **problem-solving and coding speed**
-✅ Continuing daily streak of 130+ days [ current ]
+- ✅ Solved **500+ problems** on LeetCode  
+- 🧠 Strong in Arrays, Trees, Graphs, and Recursion  
+- 🔥 **130+ day** daily problem-solving streak  
+- 🏹 Practicing DSA consistently to sharpen my thinking
 
-🔗 [Visit my LeetCode Profile »](https://leetcode.com/u/sumanmula_dsa/)
+🔗 [View my LeetCode Profile](https://leetcode.com/u/sumanmula_dsa/)
 
 ---
 
@@ -114,6 +114,30 @@
   <img src="https://streak-stats.demolab.com?user=Sumanmula&theme=tokyonight&hide_border=false" alt="Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanmula&layout=compact&theme=tokyonight" alt="Languages" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sumanmula&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🚀 Top Repositories
+
+<p align="left">
+  <a href="https://github.com/Sumanmula/MediQuick">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sumanmula/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Project2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Sumanmula/JobChai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=JobChai&theme=tokyonight" />
+  </a>
 </p>
 
 ---
