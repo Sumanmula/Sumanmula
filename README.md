@@ -1,17 +1,85 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<p align="center">
+  <img src="https://i.imgur.com/dG6lZGQ.png" alt="banner" />
+</p>
 
+<h1 align="center">👋 Hey there! I'm Suman Mula</h1>
+<h3 align="center">An Android Developer | Kotlin + Jetpack Compose Enthusiast 🚀</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/suman.mula.16/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suman.mula.18/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-mula18/)
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumanmula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sumanmula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanmula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding-gif" />
+</p>
 
 ---
+
+## 👨‍💻 About Me
+- 🎓 B.Tech Graduate in Information Technology from MCKV Institute of Engineering (2024)
+- 🛠️ Currently working on Android applications using **Kotlin, Jetpack Compose, MVVM**
+- 💡 Learning advanced Android features like **Room DB**, **Firebase**, **API Integration**, **Coroutines**
+- 🎯 Passionate about building seamless, clean, and user-friendly mobile experiences
+- 📫 Reach me at: **sumanmula18@gmail.com**
+
+---
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-mula18/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/suman.mula.18/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/suman.mula.16/)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages & UI
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+### 🧰 Architecture & Tools
+![MVVM](https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-DB-green?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-blue?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-DI-7963e0?style=for-the-badge)
+
+### ☁️ Backend & Database
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-ffca28?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Version Control & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📱 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **🩺 MediQuick** | A medicine delivery app like 1mg/PharmEasy, built with Compose | Kotlin, Jetpack Compose, MVVM, Firebase | [🔗 View Repo](https://github.com/Sumanmula/MediQuick) |
+| **👨‍💼 JobChai** | A job listing app for freshers and professionals | Kotlin, Jetpack Compose, Navigation | [🔗 View Repo](https://github.com/Sumanmula/JobChai) |
+| **🔐 Auth UI** | Sign Up / Login app using Firebase authentication | Kotlin, Jetpack Compose, Firebase | [🔗 View Repo](https://github.com/Sumanmula/Project2) |
+| **🍽 Swiggy Clone** | Food ordering app UI with Jetpack Compose | Kotlin, Jetpack Compose, UI Design | [🔗 View Repo](https://github.com/Sumanmula/SwiggyApp) |
+| **📱 Android XML Auth** | Java-based Sign Up/Login app using XML UI | Java, XML, Firebase | [🔗 View Repo](https://github.com/Sumanmula/Android-Auth-JavaXML) |
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumanmula&theme=tokyonight&show_icons=true" alt="Suman's GitHub stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Sumanmula&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanmula&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Visitors Count
 [![](https://visitcount.itsvg.in/api?id=Sumanmula&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+✨ *Let's build the future of mobile together!*
+
