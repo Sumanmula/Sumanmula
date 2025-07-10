@@ -166,7 +166,19 @@
 
 ## 🏅 GitHub Trophies 🏅
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sumanmula&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sumanmula&theme=tokyonight&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 👁️ Visitor Count 👁️
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumanmula&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanmula" />
+</p>
 
 </div>
 
