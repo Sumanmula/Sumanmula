@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Suman Mula 👋</h1>
-<h3 align="center">Android Developer | Kotlin Wizard | UI/UX Enthusiast 🚀</h3>
+<h3 align="center">Android Developer | Java & Kotlin Wizard | UI/UX Enthusiast 🚀</h3>
 
 ---
 
@@ -19,7 +19,7 @@
 - 🧠 Solved **500+ problems** on [LeetCode](https://leetcode.com/u/sumanmula_dsa/)  
 - 🔥 Constantly learning **Firebase**, **Room**, **API integration** and **Clean Architecture**  
 - ✨ I love transforming creative UI/UX into interactive mobile experiences  
-- 📬 Email: **sumanmula18@gmail.com**
+- 📬 Email : **sumanmula18@gmail.com**
 - 🔥 My Resume : [Suman_Mula_Resume](https://drive.google.com/file/d/1Dkh3Id_vpSQn-A9B7JzI9qzWOL6qstu6/view?usp=sharing)
 
 </td>
@@ -134,7 +134,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
   </a>
   <a href="https://github.com/Sumanmula/Authentication-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication_Page&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication-Page&theme=tokyonight" />
   </a>
   <a href="https://github.com/Sumanmula/ExoplayerDemo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=ExoplayerDemo&theme=tokyonight" />
@@ -152,4 +152,4 @@
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile. Let's build something awesome together! ✨</h3>
+<h3 align="center">✨ Thank you for visiting my profile. Let's build something awesome together ! ✨</h3>
