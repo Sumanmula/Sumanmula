@@ -2,16 +2,16 @@
   <img src="https://github.com/Sumanmula/Picture/blob/main/Suman%20Linkedin%20Cover%20image%202.png" alt="Suman Mula Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Suman Mula 👋</h1>
-<h3 align="center">Android Developer | Java & Kotlin Wizard | UI/UX Enthusiast 🚀</h3>
+<h1 align="center">👋 Hi, I'm Suman Mula 👋</h1>
+<h3 align="center">🚀 Android Developer | Java & Kotlin Wizard | UI/UX Enthusiast 🚀</h3>
 
 ---
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me 👨‍💻
 
 - 🎓 B.Tech in Information Technology (2021 - 2024) – MCKV Institute of Engineering  
 - 🎓 B.Sc in Mathematics (2018 - 2021) – Vidyasagar University  
@@ -31,52 +31,64 @@
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
+  
+## 🌐 Connect with Me 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-mula18/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/suman.mula.18/?hl=en)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/suman.mula.16/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumanmula_dsa/)
+<a href="https://www.linkedin.com/in/suman-mula18/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/suman.mula.18/?hl=en">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/suman.mula.16/">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/sumanmula_dsa/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tools I Use Daily
+<div align="center" style="padding: 20px; border-radius: 10px; background-color: #1e1e1e;">
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+## 🛠️ Tools I Use Daily 🛠️
+
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+
+</div>
 
 ---
 
-<table>
-<tr>
-<td>
+<div align="center" style="padding: 20px; border-radius: 10px; background-color: #1e1e1e;">
 
-### 💻 Tech Stack
+<h2>💻 Tech Stack 💻</h2>
 
-#### 👨‍🔧 Languages & UI  
+### 👨‍🔧 Languages & UI 👨‍🔧  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" />
 
-#### ⚙️ Architecture & Libraries  
+### ⚙️ Architecture & Libraries ⚙️  
 <img src="https://img.shields.io/badge/MVVM-architecture-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Room-Database-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hilt-DI-7963e0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Coroutines-lightblue?style=for-the-badge" />
 
-#### ☁️ Backend & Auth  
+### ☁️ Backend & Auth ☁️  
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Firebase%20Auth-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -115,48 +127,48 @@
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanmula&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Sumanmula&theme=tokyonight&hide_border=false" alt="Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanmula&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
+## 📊 GitHub Stats 📊
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sumanmula&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+<br />
+<img src="https://streak-stats.demolab.com?user=Sumanmula&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanmula&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumanmula&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
-## 🚀 Top Repositories
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Sumanmula/MediQuick">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sumanmula/Authentication-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication-Page&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sumanmula/ExoplayerDemo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=ExoplayerDemo&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sumanmula/Hotel-Room-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Hotel-Room-Booking-System&theme=tokyonight" />
-  </a>
-</p>
+## 🚀 Top Repositories 🚀
+
+<a href="https://github.com/Sumanmula/MediQuick">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
+</a>
+<a href="https://github.com/Sumanmula/Authentication-Page">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication-Page&theme=tokyonight" />
+</a>
+<a href="https://github.com/Sumanmula/ExoplayerDemo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=ExoplayerDemo&theme=tokyonight" />
+</a>
+<a href="https://github.com/Sumanmula/Hotel-Room-Booking-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Hotel-Room-Booking-System&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
-## 📈 Visitor Counter
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Sumanmula&label=Visitors&color=12&icon=1)](https://visitcount.itsvg.in)
+## 🏅 GitHub Trophies 🏅
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sumanmula&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
