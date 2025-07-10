@@ -1,22 +1,29 @@
 <p align="center">
-  <img src="https://github.com/Sumanmula/Picture/blob/main/Suman%20Linkedin%20Cover%20image%202.png" alt="banner" />
+  <img src="https://github.com/Sumanmula/Picture/blob/main/Suman%20Linkedin%20Cover%20image%202.png" />
 </p>
 
 <h1 align="center">👋 Hey there! I'm Suman Mula</h1>
 <h3 align="center">An Android Developer | Kotlin + Jetpack Compose Enthusiast 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding-gif" />
-</p>
-
 ---
 
+<table>
+  <tr>
+    <td>
+
 ## 👨‍💻 About Me
-- 🎓 B.Tech Graduate in Information Technology from MCKV Institute of Engineering (2024)
-- 🛠️ Currently working on Android applications using **Kotlin, Jetpack Compose, MVVM**
-- 💡 Learning advanced Android features like **Room DB**, **Firebase**, **API Integration**, **Coroutines**
-- 🎯 Passionate about building seamless, clean, and user-friendly mobile experiences
-- 📫 Reach me at: **sumanmula18@gmail.com**
+- 🎓 B.Tech Graduate in Information Technology from MCKV Institute of Engineering (2024)  
+- 🛠️ Android Developer focused on **Kotlin + Jetpack Compose + MVVM**  
+- 📱 Passionate about building clean and fast mobile UIs  
+- 🔥 Exploring **Room DB**, **Firebase**, **Coroutines**, and **API Integration**  
+- 📬 Reach me at: **sumanmula18@gmail.com**
+
+</td>
+<td align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding-gif" />
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -53,18 +60,6 @@
 
 ---
 
-## 📱 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **🩺 MediQuick** | A medicine delivery app like 1mg/PharmEasy, built with Compose | Kotlin, Jetpack Compose, MVVM, Firebase | [🔗 View Repo](https://github.com/Sumanmula/MediQuick) |
-| **👨‍💼 JobChai** | A job listing app for freshers and professionals | Kotlin, Jetpack Compose, Navigation | [🔗 View Repo](https://github.com/Sumanmula/JobChai) |
-| **🔐 Auth UI** | Sign Up / Login app using Firebase authentication | Kotlin, Jetpack Compose, Firebase | [🔗 View Repo](https://github.com/Sumanmula/Project2) |
-| **🍽 Swiggy Clone** | Food ordering app UI with Jetpack Compose | Kotlin, Jetpack Compose, UI Design | [🔗 View Repo](https://github.com/Sumanmula/SwiggyApp) |
-| **📱 Android XML Auth** | Java-based Sign Up/Login app using XML UI | Java, XML, Firebase | [🔗 View Repo](https://github.com/Sumanmula/Android-Auth-JavaXML) |
-
----
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sumanmula&theme=tokyonight&show_icons=true" alt="Suman's GitHub stats" />
@@ -82,4 +77,3 @@
 ---
 
 ✨ *Let's build the future of mobile together!*
-
