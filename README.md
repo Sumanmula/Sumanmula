@@ -131,16 +131,16 @@
 
 <p align="left">
   <a href="https://github.com/Sumanmula/MediQuick">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick Pharma Delivery App&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
   </a>
   <a href="https://github.com/Sumanmula/Authentication-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication Application&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication_Page&theme=tokyonight" />
   </a>
   <a href="https://github.com/Sumanmula/ExoplayerDemo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Exoplayer Demo Application&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=ExoplayerDemo&theme=tokyonight" />
   </a>
   <a href="https://github.com/Sumanmula/Hotel-Room-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Hotel Room Booking System Management&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Hotel-Room-Booking-System&theme=tokyonight" />
   </a>
 </p>
 
