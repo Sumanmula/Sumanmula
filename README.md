@@ -3,6 +3,9 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Suman Mula 👋</h1>
+<h6 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Scheherazade+New&color=%23CBF73F&center=false&vCenter=true&lines=Welcome+to+Open+Source+Android+Development">
+</h6>
 <h3 align="center">🚀 Android Developer | Java & Kotlin Wizard | UI/UX Enthusiast 🚀</h3>
 
 ---
@@ -11,7 +14,7 @@
 <tr>
 <td>
 
-### 👨‍💻 About Me 👨‍💻
+### 👨‍💻 About Me 👨‍💻 
 
 - 🎓 B.Tech in Information Technology (2021 - 2024) – MCKV Institute of Engineering  
 - 🎓 B.Sc in Mathematics (2018 - 2021) – Vidyasagar University  
@@ -24,6 +27,9 @@
 
 </td>
 <td align="right">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Sumanmula&label=Profile+views&color=0e75b6&style=flat" alt="Sumanmula"/>
+</p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding GIF" />
 </td>
 </tr>
@@ -31,9 +37,11 @@
 
 ---
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td>
   
-## 🌐 Connect with Me 🌐
+<h2 align="center">🌐 Connect with Me 🌐</h2>
 
 <a href="https://www.linkedin.com/in/suman-mula18/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,8 +55,9 @@
 <a href="https://leetcode.com/u/sumanmula_dsa/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +77,11 @@
 
 <div align="center" style="padding: 20px; border-radius: 10px; background-color: #1e1e1e;">
 
-<h2>💻 Tech Stack 💻</h2>
+<table align="center" width="100%">
+<tr>
+<td>
+  
+<h2 align="center">💻 Tech Stack 💻</h2>
 
 ### 👨‍🔧 Languages & UI 👨‍🔧  
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -88,17 +101,37 @@
 <img src="https://img.shields.io/badge/Firebase%20Auth-yellow?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="50%">
+
+<h2>📚 Currently Learning</h2>
 
 - 📲 Jetpack Compose navigation & dynamic theming  
 - 🔐 Firebase Firestore & Realtime DB  
 - 🧩 Clean Architecture + Repository Pattern  
 - 🌍 REST API integration with Retrofit  
-- 🧪 Unit testing for ViewModels and Repos
+- 🧪 Unit testing for ViewModels and Repos  
+
+</td>
+<td valign="top" width="50%">
+
+<h2>🏆 LeetCode Highlights</h2>
+
+- ✅ Solved <strong>500+ problems</strong> on LeetCode  
+- 🧠 Strong in Array, String, Tree, Graph and Recursion  
+- 🔥 <strong>130+ day</strong> daily Leetcode streak  
+- 🏹 Consistent with DSA to sharpen my problem solving skills 🔗 <a href="https://leetcode.com/u/sumanmula_dsa/" target="_blank">View my LeetCode Profile</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,17 +139,6 @@
 
 > I enjoy solving weird layout bugs — it’s like unlocking hidden puzzles no one else saw !  
 > Exploring open-source Android projects is my weekend hobby 🧩
-
----
-
-## 🏆 LeetCode Highlights
-
-- ✅ Solved **500+ problems** on LeetCode  
-- 🧠 Strong in Arrays, Strings, HashMap, Trees, Graphs and Recursion  
-- 🔥 **130+ day** daily problem-solving streak  
-- 🏹 Practicing DSA consistently to sharpen my thinking
-
-🔗 [View my LeetCode Profile](https://leetcode.com/u/sumanmula_dsa/)
 
 ---
 
@@ -167,18 +189,6 @@
 ## 🏅 GitHub Trophies 🏅
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sumanmula&theme=tokyonight&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 👁️ Visitor Count 👁️
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumanmula&label=Profile%20views&color=0e75b6&style=flat" alt="Sumanmula" />
-</p>
 
 </div>
 
