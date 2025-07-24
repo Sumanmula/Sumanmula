@@ -168,13 +168,13 @@
 ## 🚀 Top Repositories 🚀
 
 <a href="https://github.com/Sumanmula/MediQuick">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick - A medical delivery application&theme=tokyonight" />
 </a>
-<a href="https://github.com/Sumanmula/Authentication-Page">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Authentication-Page&theme=tokyonight" />
+<a href="https://github.com/Sumanmula/Xomato-Food-Delivery-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Xomato-Food Delivery Application&theme=tokyonight" />
 </a>
-<a href="https://github.com/Sumanmula/ExoplayerDemo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=ExoplayerDemo&theme=tokyonight" />
+<a href="https://github.com/Sumanmula/The-NewsApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=The-NewsApp&theme=tokyonight" />
 </a>
 <a href="https://github.com/Sumanmula/Hotel-Room-Booking-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Hotel-Room-Booking-System&theme=tokyonight" />
