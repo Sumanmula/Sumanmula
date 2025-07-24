@@ -168,10 +168,10 @@
 ## 🚀 Top Repositories 🚀
 
 <a href="https://github.com/Sumanmula/MediQuick">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick - A medical delivery application&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=MediQuick&theme=tokyonight" />
 </a>
 <a href="https://github.com/Sumanmula/Xomato-Food-Delivery-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Xomato-Food Delivery Application&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=Xomato-Food-Delivery-Application&theme=tokyonight" />
 </a>
 <a href="https://github.com/Sumanmula/The-NewsApp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanmula&repo=The-NewsApp&theme=tokyonight" />
